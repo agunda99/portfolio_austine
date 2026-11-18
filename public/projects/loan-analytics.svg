@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="625" viewBox="0 0 1000 625" fill="none">
+  <rect width="1000" height="625" rx="18" fill="#F0F2EA"/>
+  <rect x="22" y="22" width="956" height="581" rx="13" fill="#FBFCF8" stroke="#E0E4D9"/>
+  <path d="M22 35a13 13 0 0 1 13-13h166v581H35a13 13 0 0 1-13-13V35Z" fill="#1C3D32"/>
+  <rect x="786" y="42" width="157" height="22" rx="11" fill="#F3EDE3"/>
+  <text x="864" y="56" fill="#805C3F" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1" text-anchor="middle">ILLUSTRATIVE PREVIEW</text>
+  <rect x="47" y="49" width="28" height="28" rx="8" fill="#83A88E"/>
+  <path d="M56 68v-8m5 8V54m5 14v-5" stroke="#FBFCF8" stroke-width="3" stroke-linecap="round"/>
+  <text x="84" y="69" fill="#F8F9F4" font-family="Arial,sans-serif" font-size="18" font-weight="700">LOAN INSIGHTS</text>
+  <text x="48" y="124" fill="#AEBEB1" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">OVERVIEW</text>
+  <rect x="40" y="142" width="143" height="39" rx="7" fill="#315B49"/>
+  <circle cx="58" cy="161" r="6" fill="#A4C5AB"/>
+  <path d="m55 161 2 2 4-5" stroke="#173D30" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="74" y="165" fill="#F8F9F4" font-family="Arial,sans-serif" font-size="12">Portfolio</text>
+  <text x="57" y="207" fill="#BDCCC0" font-family="Arial,sans-serif" font-size="11">Applications</text>
+  <text x="57" y="240" fill="#BDCCC0" font-family="Arial,sans-serif" font-size="11">Collections</text>
+  <text x="57" y="273" fill="#BDCCC0" font-family="Arial,sans-serif" font-size="11">Reports</text>
+  <text x="231" y="62" fill="#788277" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.7">PORTFOLIO INTELLIGENCE</text>
+  <text x="231" y="102" fill="#233A2E" font-family="Georgia,serif" font-size="31">Loan data, made clear.</text>
+  <text x="231" y="124" fill="#889087" font-family="Arial,sans-serif" font-size="12">A current view of portfolio health and repayment trends.</text>
+  <rect x="231" y="149" width="219" height="91" rx="9" fill="#FFF" stroke="#E5E8E0"/>
+  <rect x="464" y="149" width="219" height="91" rx="9" fill="#FFF" stroke="#E5E8E0"/>
+  <rect x="697" y="149" width="246" height="91" rx="9" fill="#FFF" stroke="#E5E8E0"/>
+  <text x="250" y="176" fill="#788277" font-family="Arial,sans-serif" font-size="10">TOTAL PORTFOLIO</text>
+  <text x="250" y="211" fill="#203B30" font-family="Georgia,serif" font-size="27">KES 8.4M</text>
+  <text x="483" y="176" fill="#788277" font-family="Arial,sans-serif" font-size="10">ON-TIME REPAYMENT</text>
+  <text x="483" y="211" fill="#203B30" font-family="Georgia,serif" font-size="27">84.2%</text>
+  <text x="716" y="176" fill="#788277" font-family="Arial,sans-serif" font-size="10">ACTIVE ACCOUNTS</text>
+  <text x="716" y="211" fill="#203B30" font-family="Georgia,serif" font-size="27">1,284</text>
+  <rect x="231" y="258" width="451" height="303" rx="9" fill="#FFF" stroke="#E5E8E0"/>
+  <text x="251" y="286" fill="#324335" font-family="Arial,sans-serif" font-size="12" font-weight="700">Repayment trend</text>
+  <text x="251" y="304" fill="#8C9489" font-family="Arial,sans-serif" font-size="9">Monthly collections · last 6 months</text>
+  <path d="M270 495H650M270 452H650M270 409H650M270 366H650" stroke="#E9ECE5"/>
+  <path d="M283 457 342 427 401 441 460 389 519 405 578 355 638 373" stroke="#558169" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M283 457 342 427 401 441 460 389 519 405 578 355 638 373V495H283Z" fill="#C9DBCE" fill-opacity=".4"/>
+  <circle cx="283" cy="457" r="4" fill="#fff" stroke="#558169" stroke-width="3"/>
+  <circle cx="401" cy="441" r="4" fill="#fff" stroke="#558169" stroke-width="3"/>
+  <circle cx="519" cy="405" r="4" fill="#fff" stroke="#558169" stroke-width="3"/>
+  <circle cx="638" cy="373" r="4" fill="#fff" stroke="#558169" stroke-width="3"/>
+  <text x="279" y="521" fill="#8C9489" font-family="Arial,sans-serif" font-size="9">JAN</text>
+  <text x="389" y="521" fill="#8C9489" font-family="Arial,sans-serif" font-size="9">MAR</text>
+  <text x="500" y="521" fill="#8C9489" font-family="Arial,sans-serif" font-size="9">MAY</text>
+  <text x="615" y="521" fill="#8C9489" font-family="Arial,sans-serif" font-size="9">JUL</text>
+  <rect x="697" y="258" width="246" height="303" rx="9" fill="#FFF" stroke="#E5E8E0"/>
+  <text x="717" y="286" fill="#324335" font-family="Arial,sans-serif" font-size="12" font-weight="700">Portfolio mix</text>
+  <text x="717" y="304" fill="#8C9489" font-family="Arial,sans-serif" font-size="9">By repayment status</text>
+  <circle cx="820" cy="411" r="67" stroke="#E5E9E0" stroke-width="17"/>
+  <path d="M820 344a67 67 0 0 1 59 98" stroke="#669274" stroke-width="17" stroke-linecap="round"/>
+  <path d="M879 442a67 67 0 0 1-104 9" stroke="#DCB568" stroke-width="17" stroke-linecap="round"/>
+  <text x="820" y="411" fill="#254234" font-family="Georgia,serif" font-size="24" text-anchor="middle">84%</text>
+  <text x="820" y="430" fill="#879084" font-family="Arial,sans-serif" font-size="9" text-anchor="middle">on track</text>
+  <circle cx="726" cy="511" r="4" fill="#669274"/>
+  <text x="737" y="515" fill="#697267" font-family="Arial,sans-serif" font-size="9">On track</text>
+  <circle cx="811" cy="511" r="4" fill="#DCB568"/>
+  <text x="822" y="515" fill="#697267" font-family="Arial,sans-serif" font-size="9">Needs review</text>
+</svg>
